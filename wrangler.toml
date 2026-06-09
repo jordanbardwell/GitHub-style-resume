@@ -1,4 +1,4 @@
-name = "jordan-resume"
+name = "jordan-bardwell-resume"
 compatibility_date = "2025-01-01"
 
 # Static-assets-only Worker: Cloudflare serves the built ./dist directory directly,
