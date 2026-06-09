@@ -6,7 +6,7 @@ window.RESUME = {
     title: "Director, Workplace Platforms",
     bio: "Building AI & automation programs that ship to production — not proofs of concept.",
     location: "Greater Tampa Bay Area",
-    email: "jordanbbardwell@gmail.com",
+    email: "letsbuild@jordanbardwell.com",
     linkedin: "https://www.linkedin.com/in/jordanbardwell/",
     photo: "jordan.jpeg",
     website: "jordanbardwell.com",
