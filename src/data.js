@@ -121,9 +121,10 @@ window.RESUME = {
       summary: "Led Southwest's Power Platform adoption, migrating 20+ automations from a legacy platform and standing up production-ready environments.",
       points: [
         "Architected a mass-refund automation across 150+ virtual machines, processing refunds for 400K customers during Winter Storm Elliott and keeping Southwest in DOT compliance.",
+        "Onboarded Power Platform across the technology org and partnered with the legacy RPA team to migrate 20+ automations off their legacy platform — standing up environments and resolving pipeline and deployment issues to get it production-ready.",
         "Built a model-driven app integrated with ServiceNow to auto-rate and flag closed tickets, improving resolution quality ~25%.",
       ],
-      tags: ["Power Automate Desktop", "ServiceNow"],
+      tags: ["Power Platform", "Power Automate Desktop", "ServiceNow"],
     },
     {
       role: "System Engineer",
@@ -212,6 +213,7 @@ window.RESUME = {
     { name: "sophie", kind: "work", category: "AI & Agents", desc: "IT-focused Copilot Studio agent standardizing administrative and service-desk tasks.", lang: "Copilot Studio", langColor: "#0969da", impact: "IT self-service", year: 2024 },
     { name: "servicenow-lakehouse", kind: "work", category: "Data", desc: "ETL pipelines pulling ServiceNow data into a Fabric Lakehouse for self-service reporting across business units.", lang: "Azure Data Factory", langColor: "#3178c6", impact: "self-service BI", year: 2024 },
     { name: "ticket-quality", kind: "work", category: "Automation", desc: "Model-driven app integrated with ServiceNow that auto-rates and flags closed tickets to surface coaching opportunities.", lang: "Power Platform", langColor: "#742774", impact: "+25% resolution", year: 2023 },
+    { name: "legacy-rpa-migration", kind: "work", category: "Automation", desc: "Onboarded Power Platform across Southwest's technology org and migrated 20+ automations off the legacy RPA platform — standing up environments and resolving pipeline and deployment issues to get them production-ready.", lang: "Power Platform", langColor: "#742774", impact: "20+ migrated", year: 2023 },
     { name: "coe-governance", kind: "work", category: "Platform", desc: "Governance framework, acceptable-use standards and citizen-developer enablement tracks for the Power Platform CoE.", lang: "Governance", langColor: "#1a7f37", impact: "global model", year: 2024 },
     { name: "asset-tracker", kind: "work", category: "Automation", desc: "Power Apps IT hardware tracking integrated with Intune & Autopilot, replacing an error-prone Excel process.", lang: "Power Apps", langColor: "#8250df", impact: "−Excel", year: 2020 },
     { name: "fabric-pipelines", kind: "work", category: "Data", desc: "Unified data pipelines across Microsoft Fabric and Azure Data Factory, cutting time-to-insight for global reporting.", lang: "Microsoft Fabric", langColor: "#1a7f37", impact: "faster reporting", year: 2025 },
@@ -226,10 +228,10 @@ window.RESUME = {
   milestones: {
     2026: ["Promoted to Director, Workplace Platforms", "Led ServiceNow → Jira migration (600 agents, 8K users)", "Shipped BurnBuild — AI dev-tooling cost & token observability", "Extended agentic AI into HR & Finance (QtC, Source-to-Pay)"],
     2025: ["Promoted to Director, Rapid Dev & Innovation", "Rebuilt Eva as a multi-agent orchestrator", "Talkdesk × Copilot Studio live-agent integration", "Microsoft Customer Success Story published", "$1M+ in cost reductions delivered"],
-    2024: ["Founded Epiq's Power Platform CoE", "Shipped Eva & Sophie agentic copilots", "Built RapidTrack intake-to-ROI system"],
+    2024: ["Migrated 20+ automations off Southwest's legacy RPA platform onto Power Platform", "Founded Epiq's Power Platform CoE", "Shipped Eva & Sophie agentic copilots", "Built RapidTrack intake-to-ROI system"],
     2023: ["Scaled Southwest's Power Platform adoption", "ServiceNow ticket-quality app (+25% resolution)"],
-    2022: ["Winter Storm Elliott: mass-refund automation for 400K customers", "Kept Southwest in DOT compliance"],
-    2021: ["Joined Southwest as System Engineer", "Migrated 20+ automations off a legacy platform"],
+    2022: ["Winter Storm Elliott: mass-refund automation for 400K customers", "Began Southwest's legacy RPA → Power Platform migration"],
+    2021: ["Joined Southwest as System Engineer", "Introduced Power Platform to Southwest's technology org"],
     2020: ["Onboarding automation — $1M annual savings, −30% tickets", "Power Apps asset tracking with Intune"],
     2019: ["Native Office 365 migration", "SCCM → Intune with Autopilot"],
     2018: ["Cherwell onboarding automation in PowerShell"],
